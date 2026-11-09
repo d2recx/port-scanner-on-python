@@ -1,0 +1,18 @@
+[+] Порт 135: ОТКРЫТ
+[+] Порт 445: ОТКРЫТ
+[+] Порт 5040: ОТКРЫТ
+[+] Порт 5357: ОТКРЫТ
+[+] Порт 8384: ОТКРЫТ
+[+] Порт 8588: ОТКРЫТ
+[+] Порт 8590: ОТКРЫТ
+
+ Scan is over on  2.03 sec
+ Scan is over on  2.04 secMost open: 0
+ Scan is over on  2.05 secMost open: 0
+ Scan is over on  2.03 secMost open: 0
+ Scan is over on  0.02 secMost open: 0
+ Scan is over on  0.01 secMost open: 0
+ Scan is over on  4.03 sec[+] Порт 135: ОТКРЫТ
+[+] Порт 445: ОТКРЫТ
+Most open: 2
+ Scan is over on  40.22 sec
